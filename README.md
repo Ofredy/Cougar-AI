@@ -1,2 +1,3 @@
-# Cougar-AI
-Code produced with Cougar AI
+# KMNIST Dataset 
+
+My introduction into a GAN using the KMNIST Dataset
